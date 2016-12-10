@@ -1,0 +1,9 @@
+*.class
+*.jar
+.svn/
+.settings/
+.classpath
+.project
+.externalToolBuilders/
+.mymetadata
+target/
